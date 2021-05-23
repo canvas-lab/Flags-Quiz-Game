@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MAD2020Assignment1</string>
+    <string name="fun_with_flag_quiz_application">Fun with Flag Quiz Application</string>
+    <string name="randomly_generated_winning_point">randomly generated winning point</string>
+    <string name="randomly_generated_start_point">randomly generated start point</string>
+    <string name="start">start</string>
+    <string name="textview">TextView</string>
+    <string name="_1_col">1 col</string>
+    <string name="_2_col">2 col</string>
+    <string name="_3_col">3 col</string>
+    <string name="change_to_horizontal_scrolling"><![CDATA[change to horizontal scrolling ->]]></string>
+    <string name="_1_row">1 row</string>
+    <string name="_2_row">2 row</string>
+    <string name="_3_row">3 row</string>
+    <string name="change_to_vertical_scrolling">change to vertical scrolling</string>
+    <string name="total_point">total point</string>
+    <string name="win_lose">win/lose</string>
+    <string name="todo">TODO</string>
+    <string name="qnum">Qnum</string>
+    <string name="point">point</string>
+    <string name="penalty">penalty</string>
+    <string name="question">Question</string>
+    <string name="choice_x">choice x</string>
+    <string name="prev"><![CDATA[<- prev]]></string>
+</resources>
